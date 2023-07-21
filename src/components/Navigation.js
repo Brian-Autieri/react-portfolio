@@ -2,18 +2,18 @@ import React from 'react';
 
 // TODO: Add a comment explaining how we are able to extract the key value pairs from props
 
-function NavTabs({ currentPage, handlePageChange }) {
+function Navigation({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <a
-          href="#home"
+          href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
           //*  TODO: BONUS: Add a comment explaining what kind of operator this is and what it is checking for
 
           className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
         >
-          Home
+          Portfolio
         </a>
       </li>
       <li className="nav-item">
@@ -53,42 +53,4 @@ function NavTabs({ currentPage, handlePageChange }) {
   );
 }
 
-export default NavTabs;
-
-//  Left off here
-
-import React, { useState } from 'react';
-import NavTabs from './NavTabs';
-import Home from './pages/Home';
-import About from './pages/About';
-import Blog from './pages/Blog';
-import Contact from './pages/Contact';
-
-export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Home');
-
-  // TODO: Add a comment describing the functionality of this method
-  const renderPage = () => {
-    if (currentPage === 'Home') {
-      return <Home />;
-    }
-    if (currentPage === 'About') {
-      return <About />;
-    }
-    if (currentPage === 'Blog') {
-      return <Blog />;
-    }
-    return <Contact />;
-  };
-
-  const handlePageChange = (page) => setCurrentPage(page);
-
-  return (
-    <div>
-      {/* // TODO: Add a comment describing what we are passing as props */}
-      <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-      {/* // TODO: Add a comment explaining what is happening on the following line */}
-      {renderPage()}
-    </div>
-  );
-}
+export default Navigation;
