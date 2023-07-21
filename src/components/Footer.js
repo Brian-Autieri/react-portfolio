@@ -9,6 +9,7 @@ export default function Footer() {
             <p>
         <a href="https://www.google.com" target="_blank">GitHub</a>
         <a href="https://www.google.com" target="_blank">LinkedIn</a>
+        <a href="mailto:brian.autieri@icloud.com">Email</a>
         </p>
         </div>
         </footer>
