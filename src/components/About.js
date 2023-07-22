@@ -31,7 +31,7 @@ export default function About() {
         ever-evolving online landscape.
       </p>
 
-      <p className="paragraph">
+      <p className="paragraph3">
         When I'm not working on school projects, you can find me skateboarding
         along the Venice Beach boardwalk, going on adventures with my girlfriend
         or eating a nutrious (and delicious) meal at Erewhon. Alternatively, you

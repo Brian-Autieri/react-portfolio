@@ -5,21 +5,31 @@
   text-align: center;
   background-color: #3b4246;
   padding: 20px;
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
+  font-weight: bold;
   }
 
   .about {
     text-align: center;
     color: #3b4246;
     margin-bottom: 30px;
+    font-weight: bold;
+    margin-top: 20px;
   }
 
   .paragraph {
     margin: 10px 100px 10px 100px;
     text-align: left;
     color: #3b4246;
+  }
+
+  .paragraph3 {
+    margin: 10px 100px 10px 100px;
+    text-align: left;
+    color: #3b4246;
+    margin-bottom: 50px;
   }
 
   .aboutImage {
@@ -35,7 +45,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 20px;
+    padding: 0px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #3b4246;
   }
@@ -44,9 +54,11 @@
     font-size: 48px;
     background-color: #17bfd2;
     color: #3b4246;
-    font-family: initial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
     border-radius: 5px;
     padding: 0 5px 0 5px;
+    margin: 10px;
+    font-weight: bold;
   }
 
   .footerLinks a {
@@ -54,4 +66,11 @@
     text-decoration: none;
     font-size: 20px;
     color: #17bfd2;
+  }
+
+  .heroImage {
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
   }
