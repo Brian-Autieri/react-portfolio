@@ -111,3 +111,15 @@
   .pageColor {
     background-color: rgb(241, 230, 230);
   }
+
+  .resume {
+    color: #3b4246;
+    text-align: center;
+  }
+
+  .resume ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 25px 0 50px 0;
+    font-size: 20px;
+  }
