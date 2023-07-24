@@ -92,13 +92,16 @@ function Contact() {
             rows={3}
             value={message}
             name="message"
+            placeholder="Your message here"
             onChange={handleInputChange}
             onBlur={handleValidation}
           />
         </Form.Group>
+        <div className="buttonCenter">
         <button type="button" className="contactButton" onClick={handleFormSubmit}>
           Submit
         </button>
+        </div>
       </Form>
 
       {errorMessage && (

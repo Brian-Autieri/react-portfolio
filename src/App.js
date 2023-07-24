@@ -30,7 +30,7 @@ export default function App() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div className='pageColor'>
       {/* // TODO: Add a comment describing what we are passing as props */}
       <Header />
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />

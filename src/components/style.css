@@ -80,12 +80,17 @@
     border: #17bfd2;
     border-radius: 10px;
     color: #3b4246;
-    padding: 5px 10px;
-    margin: 0 0 10px 10px;
+    padding: 6px 12px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+
+  .buttonCenter {
+    text-align: center;
   }
 
   .contactArea {
-    margin: 10px 300px 10px 300px;
+    margin: 50px 300px 50px 300px;
     text-align: left;
     color: #3b4246;
     font-weight: bold;
@@ -100,4 +105,9 @@
   .nav-link {
     color: #17bfd2!important;
     font-weight: bold!important;
+    border: #17bfd2;
+  }
+
+  .pageColor {
+    background-color: rgb(241, 230, 230);
   }
