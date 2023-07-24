@@ -1,41 +1,39 @@
-import './style.css';
-import BrianImage from '../assets/images/self-portrait.JPG';
+import "./style.css";
+import BrianImage from "../assets/images/self-portrait.JPG";
 
 export default function About() {
   return (
     <>
       <h4 className="about">Meet The Developer</h4>
-      <img src={BrianImage} alt="Brian Autieri" className='aboutImage' />
+      <img src={BrianImage} alt="Brian Autieri" className="aboutImage" />
       <p className="paragraph">
-        Welcome to my portfolio! I'm a passionate web developer based in Venice
-        Beach, California. Currently, I'm pursuing my web development education
-        through the prestigious Coding Boot Camp at UCLA Extension. Originally
-        from Florida, I fulfilled a lifelong dream to move to California when I
-        accepted a sales position at Tesla in Santa Monica. However, my journey
-        didn't stop there.
+        In progress
       </p>
       <p className="paragraph">
-        During my time in Venice, I explored various avenues and discovered my
-        passion for holistic well-being. I delved into the world of high-end
-        luxury spas, where I worked as a Certified Massage Therapist.
-        Additionally, I expanded my knowledge of the body by becoming a
-        Registered Yoga Teacher, promoting physical and mental harmony. I even
-        obtained my California Real Estate License, further broadening my skill
-        set.
+        Brian was working at a luxury, Tulum-inspired wellness center on the
+        world famous Abbot Kinney Boulevard where he found himself ready to
+        discover his new passion. It was here where he would find and begin this
+        new journey.
       </p>
       <p className="paragraph">
-        My academic background revolves around business studies, which equipped
-        me with a strong foundation. Now, I'm thrilled to embark on an exciting
-        new chapter in web development. As I immerse myself in this field, I'm
-        eager to create innovative digital experiences and contribute to the
-        ever-evolving online landscape.
+        <em>The Universe doesn’t speak to you loudly, but with a whisper.</em>
+      </p>
+      <p className="paragraph">
+        Brian was going about another seemingly ordinary day at work but little
+        did he know his life was about to change. A conversation started with
+        someone who had similar interests - he loved Southern California,
+        skateboarding and he was even from Florida, too. Very casually he said,
+        “I’m a Web Developer and maybe it could be something you check out.”
+        Fast forward 3 months, Brian began his studies at the UCLA Extension
+        Coding Boot Camp … and the rest, as they say, is history.
       </p>
 
       <p className="paragraph3">
-        When I'm not working on school projects, you can find me skateboarding
-        along the Venice Beach boardwalk, going on adventures with my girlfriend
-        or eating a nutrious (and delicious) meal at Erewhon. Alternatively, you
-        can also find me playing video games on my Nintendo Switch.
+        Brian Autieri pulls from his love for adventure, luxury, craftsmanship
+        and attention to detail into each project he builds. This Journey and
+        every step along the way helped to create these projects you now see, an
+        expression of the Brian’s lifestyle and creativity that is always
+        evolving.
       </p>
     </>
   );

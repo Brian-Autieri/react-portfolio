@@ -1,7 +1,5 @@
 import React from 'react';
 
-// TODO: Add a comment explaining how we are able to extract the key value pairs from props
-
 function Navigation({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
@@ -9,7 +7,6 @@ function Navigation({ currentPage, handlePageChange }) {
         <a
           href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
-          //*  TODO: BONUS: Add a comment explaining what kind of operator this is and what it is checking for
 
           className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
         >
@@ -20,7 +17,6 @@ function Navigation({ currentPage, handlePageChange }) {
         <a
           href="#about"
           onClick={() => handlePageChange('About')}
-          //  TODO: Add a comment explaining what this logic is doing
 
           className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
         >

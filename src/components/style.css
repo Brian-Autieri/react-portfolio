@@ -74,3 +74,28 @@
     background-size: cover;
     background-position: center;
   }
+
+  .contactButton {
+    background-color: #17bfd2;
+    border: #17bfd2;
+    border-radius: 10px;
+    color: #3b4246;
+    padding: 5px 10px;
+    margin: 0 0 10px 10px;
+  }
+
+  .contactArea {
+    margin: 10px 300px 10px 300px;
+    text-align: left;
+    color: #3b4246;
+    font-weight: bold;
+  }
+
+  .nav {
+    background-color: #3b4246;
+    font-size: 20px;
+  }
+
+  .nav-link {
+    color: #17bfd2!important;
+  }

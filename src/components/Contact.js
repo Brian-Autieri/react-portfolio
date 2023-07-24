@@ -61,7 +61,7 @@ function Contact() {
   };
 
   return (
-    <div>
+    <div className="contactArea">
       <Form>
         <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
           <Form.Label>Name</Form.Label>
@@ -96,7 +96,7 @@ function Contact() {
             onBlur={handleValidation}
           />
         </Form.Group>
-        <button type="button" onClick={handleFormSubmit}>
+        <button type="button" className="contactButton" onClick={handleFormSubmit}>
           Submit
         </button>
       </Form>

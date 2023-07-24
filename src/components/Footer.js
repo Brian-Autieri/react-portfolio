@@ -7,8 +7,8 @@ export default function Footer() {
         <h4>Made by Brian Autieri 2023</h4>
         <div className="footerLinks">
             <p>
-        <a href="https://www.google.com" target="_blank">GitHub</a>
-        <a href="https://www.google.com" target="_blank">LinkedIn</a>
+        <a href="https://github.com/Brian-Autieri" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/brian-autieri/" target="_blank">LinkedIn</a>
         <a href="mailto:brian.autieri@icloud.com">Email</a>
         </p>
         </div>
