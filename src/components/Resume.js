@@ -3,6 +3,7 @@ export default function Resume() {
         <>
         <div className="resume">
         <h2>Resume</h2>
+        <p>Click <a href="#">here</a> to view Brian's resume</p>
         <h3>Front-end Proficiencies</h3>
         <ul>
             <li>HTML</li>

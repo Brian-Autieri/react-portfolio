@@ -7,13 +7,16 @@ export default function About() {
       <h4 className="about">Meet The Developer</h4>
       <img src={BrianImage} alt="Brian Autieri" className="aboutImage" />
       <p className="paragraph">
-        In progress
+        Brian is a web developer based in Venice Beach, California and is
+        currently pursuing coding education at UCLA Extension. Originally from
+        Florida, Brian fulfilled a lifelong dream to move to Southern California when he
+        accepted a sales position at Tesla in Santa Monica.
       </p>
       <p className="paragraph">
-        Brian was working at a luxury, Tulum-inspired wellness center on the
-        world famous Abbot Kinney Boulevard where he found himself ready to
-        discover his new passion. It was here where he would find and begin this
-        new journey.
+        Since being a resident of Venice for the past six years, Brian has also
+        worked at high-end, luxury spas, became a yoga instructor and obtained
+        his California Real Estate License. He's never been afraid to dive into
+        new challenges and that is especially true for software development.
       </p>
       <p className="paragraph">
         <em>The Universe doesn’t speak to you loudly, but with a whisper.</em>
@@ -29,11 +32,11 @@ export default function About() {
       </p>
 
       <p className="paragraph3">
-        Brian Autieri pulls from his love for adventure, luxury, craftsmanship
-        and attention to detail into each project he builds. This Journey and
-        every step along the way helped to create these projects you now see, an
-        expression of the Brian’s lifestyle and creativity that is always
-        evolving.
+        When Brian isn't working on school projects, you can find him
+        skateboarding along the Venice Beach boardwalk, going on adventures with
+        his girlfriend or eating a nutrious (and delicious) meal at Erewhon.
+        Alternatively, you can also find him playing video games on his Nintendo
+        Switch.
       </p>
     </>
   );

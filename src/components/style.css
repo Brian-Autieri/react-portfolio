@@ -115,11 +115,22 @@
   .resume {
     color: #3b4246;
     text-align: center;
+    margin-top: 25px;
   }
 
   .resume ul {
     list-style-type: none;
     margin: 0;
     padding: 25px 0 50px 0;
+    font-size: 20px;
+  }
+
+  .resume a {
+    text-decoration: none;
+    color: #17bfd2;
+    margin-top: 20px;
+  }
+
+  .resume p {
     font-size: 20px;
   }

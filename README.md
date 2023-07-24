@@ -2,6 +2,10 @@
 
 ## Description
 
+## Webpage Screenshot
+
+![Webpage Screenshot](/react-portfolio-screenshot.png)
+
 ## Credits
 
 This challenge was completed in collaboration with the instructional staff (Diarmuid Murphy), TA/tutor (Meg Meyers) and classmates in the February 2023 UCLA Extension Coding Bootcamp.
