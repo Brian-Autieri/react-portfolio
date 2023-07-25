@@ -4,7 +4,7 @@
 
 ## Webpage Screenshot
 
-![Webpage Screenshot](/react-portfolio-screenshot.png)
+![Webpage Screenshot](/src/assets/images/react-portfolio-screenshot.png)
 
 ## Credits
 

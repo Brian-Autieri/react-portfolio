@@ -134,3 +134,25 @@
   .resume p {
     font-size: 20px;
   }
+
+  .applicationImages {
+    height: 150px;
+    width: 300px;
+    margin: 10px 0;
+  }
+
+  .portfolioStyle {
+    text-align: center;
+    color: #3b4246;
+    font-weight: bold;
+  }
+
+  .portfolioStyle h2 {
+    margin: 25px 0;
+  }
+
+  .portfolioStyle a {
+    color: #17bfd2;
+    text-decoration: none;
+    font-size: 20px;
+  }
