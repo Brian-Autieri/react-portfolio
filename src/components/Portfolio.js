@@ -39,6 +39,7 @@ export default function Portfolio() {
         <img src={passwordGenerator} alt="" className='applicationImages' />
         <p><a href="https://brian-autieri.github.io/random-password-generator/" target="_blank">Deployed Application</a></p>
         <p><a href="https://github.com/Brian-Autieri/random-password-generator" target="_blank">GitHub Repository</a></p>
+        <br />
         </div>
         </>
     )
