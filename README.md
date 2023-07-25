@@ -2,6 +2,20 @@
 
 ## Description
 
+The purpose of the project was a to create a portfolio using React. The portfolio includes a header, a navbar and footer. The navbar consists of links to the Portfolio, About, Resume and Contact pages. The Portfolio page includes a list of projects with links to the deployed application and the GitHub repository. The About page includes a short bio and a photo. The Resume page includes a list of skills and proficiencies, along with a PDF file of a resume. The Contact page includes a form to send an email.
+
+## Usage
+
+The application is deployed on GitHub Pages. The user can navigate to the Portfolio, About, Resume and Contact pages using the navbar. The user can click on the links to the deployed application and the GitHub repository for each project. The user can also click on the email link to send an email.
+
+## Installation
+
+Clone the repository from GitHub. Run `npm install` to install the dependencies. Run `npm start` to start the application.
+
+## Webpage Link
+
+
+
 ## Webpage Screenshot
 
 ![Webpage Screenshot](/src/assets/images/react-portfolio-screenshot.png)
