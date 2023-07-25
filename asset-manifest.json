@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio/static/js/main.da8aa3da.js",
+    "main.css": "/react-portfolio/static/css/main.0c38b8cb.css",
+    "main.js": "/react-portfolio/static/js/main.d9547282.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cinemaSearch.png": "/react-portfolio/static/media/cinemaSearch.20ef64104a4c46dcdbcf.png",
+    "static/media/heroImage.jpg": "/react-portfolio/static/media/heroImage.e54ca5991f3b31e9dfcc.jpg",
+    "static/media/bdsm.png": "/react-portfolio/static/media/bdsm.6096d05335498f3961ae.png",
+    "static/media/self-portrait.JPG": "/react-portfolio/static/media/self-portrait.9027e835d3cd48caf163.JPG",
+    "static/media/codeQuiz.png": "/react-portfolio/static/media/codeQuiz.f1d59d1f86a8628bde3d.png",
+    "static/media/nosql.png": "/react-portfolio/static/media/nosql.0138f01f1154436adf8a.png",
+    "static/media/react-resume.pdf": "/react-portfolio/static/media/react-resume.a02d4dd3bae8a0eaf4d5.pdf",
+    "static/media/passwordGenerator.png": "/react-portfolio/static/media/passwordGenerator.aa25cbf89939def02f6b.png",
+    "static/media/pwaTextEditor.png": "/react-portfolio/static/media/pwaTextEditor.165d363789141ef388b3.png",
     "index.html": "/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.da8aa3da.js.map": "/react-portfolio/static/js/main.da8aa3da.js.map",
+    "main.0c38b8cb.css.map": "/react-portfolio/static/css/main.0c38b8cb.css.map",
+    "main.d9547282.js.map": "/react-portfolio/static/js/main.d9547282.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.da8aa3da.js"
+    "static/css/main.0c38b8cb.css",
+    "static/js/main.d9547282.js"
   ]
 }
